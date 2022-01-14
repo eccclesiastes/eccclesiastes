@@ -15,5 +15,5 @@ README.md
 
 > CSS 🟦
 
-> MySQL 🕊️
+> MySQL 🐬
 
