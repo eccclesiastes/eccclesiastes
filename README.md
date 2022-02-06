@@ -17,4 +17,6 @@ README.md
 
 > MySQL 🐬
 
+## Stats
+
 ![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtdceu&count_private=true)
