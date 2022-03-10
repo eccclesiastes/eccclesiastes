@@ -5,7 +5,7 @@ README.md
 
 > Aspiring dev 💼
 
-> Started learning 8 months ago 🗓️
+> Started learning 9 months ago 🗓️
 
 ## Languages 
 
