@@ -1,13 +1,10 @@
-## qtdceu
-README.md
-
 # Hey there 👋
 
 > Aspiring dev 💼
 
 > Started learning 8 months ago 🗓️
 
-## Languages 
+## Skills
 
 > JavaScript 🟨
 
@@ -16,6 +13,10 @@ README.md
 > CSS 🟦
 
 > MySQL 🐬
+
+> Express 🏃‍♂️
+
+> Bootstrap 🥾
 
 ## Stats
 
