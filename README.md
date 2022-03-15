@@ -20,4 +20,4 @@
 
 ## Stats
 
-![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtdceu&count_private=true)
+![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtdceu&include_all_commits=true)
