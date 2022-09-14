@@ -1,9 +1,5 @@
 # Hey there 👋
 
-> Aspiring dev 💼
-
-> Started learning 8 months ago 🗓️
-
 ## Skills
 
 > JavaScript 🟨
