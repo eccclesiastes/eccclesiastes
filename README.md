@@ -20,6 +20,8 @@
 
 > Node.js 🟩
 
+> Python 🟦
+
 ## Stats
 
-![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=joee-r&include_all_commits=true)
+![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=eccclesiastes&include_all_commits=true)
