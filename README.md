@@ -5,7 +5,7 @@
 <p align="left">
   <a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" alt="JavaScript Logo" /></a>
   <a href="https://html.com/"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png?w=360" width="50" alt="HTML Logo" /></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="50" alt="CSS Logo" /></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="51" alt="CSS Logo" /></a>
   <a href="https://www.mysql.com/"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="50" alt="SQL Logo" /></a>
   <a href="https://expressjs.com/"><img src="https://i.imgur.com/ofktwQn.jpg" width="50" alt="Express Logo" /></a>
   <a href="https://getbootstrap.com/"><img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" width="50" alt="Bootstrap Logo" /></a>
